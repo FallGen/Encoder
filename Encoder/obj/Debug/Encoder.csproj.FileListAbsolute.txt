@@ -1,0 +1,11 @@
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\bin\Debug\Encoder.exe.config
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\bin\Debug\Encoder.exe
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\bin\Debug\Encoder.pdb
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\obj\Debug\Encoder.csproj.AssemblyReference.cache
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\obj\Debug\Encoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\obj\Debug\Encoder.csproj.GenerateResource.cache
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\obj\Debug\Encoder.exe
+C:\Users\n_332\Documents\GitHub\Encoder\Encoder\Encoder\obj\Debug\Encoder.pdb
